@@ -15,6 +15,7 @@ header {
     background: #003366;
     color: #fff;
     padding: 1rem 0;
+    text-align: center;
 }
 
 header .container {
@@ -125,8 +126,8 @@ a.btn:hover {
 
 .gallery {
     display: flex;
-    gap: 1rem;
-    flex-wrap: wrap;
+  flex-wrap: wrap;
+  gap: 10px;
 }
 
 .gallery-item {
